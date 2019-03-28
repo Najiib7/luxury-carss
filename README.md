@@ -4,12 +4,11 @@ You can use the [editor on GitHub](https://github.com/Najiib7/www.luxury-cars.ac
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Luxury cars
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```Top 10 luxury cars
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -22,8 +21,6 @@ Syntax highlighted code block
 ######### Header 9
 ########## Header 10
 
-- Bulleted
-- List
 
 1. Numbered
 2. List
