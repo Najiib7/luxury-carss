@@ -10,11 +10,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```Top 5 luxury cars
 
-# 1. Rolls-Royce Phantom
+## 1. Rolls-Royce Phantom
 ## 2. Mercedes-Maybach S650
-### 3. Bentley Mulsanne
-#### 4. Rolls-Royce Cullinan
-##### 5. Bentley Bentayga
+## 3. Bentley Mulsanne
+## 4. Rolls-Royce Cullinan
+## 5. Bentley Bentayga
 
 <img src="html5.gif" alt="HTML5 Icon" width="128" height="128">
 <img src="html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
