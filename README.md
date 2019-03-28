@@ -16,8 +16,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ## 4. Rolls-Royce Cullinan
 ## 5. Bentley Bentayga
 
-<img src="html5.gif" alt="HTML5 Icon" width="128" height="128">
-<img src="html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
+<img src="html5.gif" alt="RR Icon" width="128" height="128">
+<img src="html5.gif" alt="RR Icon" style="width:128px;height:128px;">
 
 
 
